@@ -14,7 +14,7 @@ Select * From products;
 
 insert into products(product_name, department_name, price, stock_quantity)
 values("tv", "electronics", 300, 6),
-	  ("screwdriver","tools", 25, 10),
+      ("screwdriver","tools", 25, 10),
       ("lawn mower", "landscaping", 400, 7),
       ("refrigerator", "appliances", 750, 5),
       ("slow cooker", "appliances", 35, 20),
